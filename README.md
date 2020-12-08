@@ -1,4 +1,6 @@
 # JMinerGuide
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frk1-rk1%2FJMinerGuide.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frk1-rk1%2FJMinerGuide?ref=badge_shield)
+
 
 Helper application for EVE Online miners. In Java.
 
@@ -72,3 +74,6 @@ JMinerGuide source code is distributed under the BSD 2-clause license.
 All EVE Online related materials, information and images, including application, dialog and window icons are a property of CCP hf.
 
 ting.wav was downloaded from https://www.freesound.org/people/robni7/sounds/174027/ and is distributed under Creative Commons Attribution 3.0 license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frk1-rk1%2FJMinerGuide.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frk1-rk1%2FJMinerGuide?ref=badge_large)
